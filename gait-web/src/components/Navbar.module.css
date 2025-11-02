@@ -1,0 +1,11 @@
+.navbar{
+    background-color: black;
+    padding: 10px;
+    text-align: center;
+}
+
+.logo{
+    width: 200px;
+    height: auto;
+    margin-left: 20px;
+}

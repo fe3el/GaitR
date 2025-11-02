@@ -1,0 +1,37 @@
+.container {
+  display: flex;
+  flex-direction: column;  
+  justify-content: center;  
+  align-items: center;     
+  height: 1vh;            
+  padding: 20px;            
+  box-sizing: border-box;   
+}
+
+
+.chooseButton {
+  padding: 10px 20px;
+  background-color: #4CAF50;
+  color: white;
+  font-size: 16px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.chooseButton:hover {
+  background-color: #45a049;
+}
+
+
+.fileInput {
+  display: none;
+}
+
+.button-container {
+  display: flex;
+  justify-content: center;  
+  align-items: center;      
+  margin-top: 40px;  
+}
