@@ -1,7 +1,5 @@
 # GaitR - Gait Recognition System
-<img width="960" height="495" alt="image" src="https://github.com/user-attachments/assets/74de263b-5a44-4dad-ab99-06d4915c2437" />
 Author: Khafillah Akbar S.
-
 Teknik Informatika — Politeknik Negeri Malang (2025)
 
 This repository contains the implementation and analysis of my undergraduate thesis project on **Gait Recognition**, focusing on identifying individuals based on their walking patterns.   The study explores temporal features in gait sequences using **Long Short-Term Memory (LSTM)** networks, evaluated on **CASIA-B** and **OU-ISIR MVLP** datasets.
