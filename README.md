@@ -1,4 +1,5 @@
-<img width="960" height="495" alt="image" src="https://github.com/user-attachments/assets/74de263b-5a44-4dad-ab99-06d4915c2437" /># GaitR
+#GaitR - Gait Recognition System
+<img width="960" height="495" alt="image" src="https://github.com/user-attachments/assets/74de263b-5a44-4dad-ab99-06d4915c2437" />
 Author: Khafillah Akbar S.
 
 Teknik Informatika — Politeknik Negeri Malang (2025)
